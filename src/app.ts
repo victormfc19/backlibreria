@@ -5,6 +5,7 @@ import cors from "cors";
 import { UserController } from "./controllers/UserController";
 import { BookController } from './controllers/BookController';
 import { PurchaseController } from './controllers/PurchaseController';
+import { create } from "xmlbuilder2";
 
 dotenv.config();
 
@@ -45,6 +46,12 @@ app.post("/purchase", (req: Request, res: Response) => {
 
 app.get("/purchase", (req: Request, res: Response) => {
     purchaseController.getAllPurchases(req, res);
+})
+
+app.get("/purchasexml/:id", (req: Request, res: Response) => {
+    console.log(req.params);
+    
+    purchaseController.generateReport(req, res);
 })
 
 

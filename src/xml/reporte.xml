@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<data>
+  <item>
+    <cliente_id>1001</cliente_id>
+    <nombre>Muzan</nombre>
+    <email>muzan12@gmail.com</email>
+    <telefono>3139983327</telefono>
+    <titulo>Carrie</titulo>
+    <descripcion>Carrie White, una tímida adolescente críada por una fanática religosa es humillada constantemente por su compañeros de instituto. Sin embargo, la joven posee poderes psíquicos que se manifiestan cuando se siente dominada por la ira</descripcion>
+    <fecha_prestamo>Tue Jun 11 2024 00:30:02 GMT-0500 (hora estándar de Colombia)</fecha_prestamo>
+  </item>
+  <item>
+    <cliente_id>1001</cliente_id>
+    <nombre>Muzan</nombre>
+    <email>muzan12@gmail.com</email>
+    <telefono>3139983327</telefono>
+    <titulo>Harry P. La camara secreta</titulo>
+    <descripcion>Sin saber que alguien ha abierto la Cámara de los Secretos, dejando escapar una serie de monstruos peligrosos, Harry y sus amigos Ron y Hermione tendrán que enfrentarse con arañas gigantes, serpientes encantadas, fantasmas enfurecidos</descripcion>
+    <fecha_prestamo>Tue Jun 11 2024 00:36:08 GMT-0500 (hora estándar de Colombia)</fecha_prestamo>
+  </item>
+  <item>
+    <cliente_id>1001</cliente_id>
+    <nombre>Muzan</nombre>
+    <email>muzan12@gmail.com</email>
+    <telefono>3139983327</telefono>
+    <titulo>Harry P. El prisionero de Azkaban</titulo>
+    <descripcion>El tercer año de estudios de Harry en Hogwarts se ve amenazado por la fuga de Sirius Black de la prisión de Azkaban. Al parecer, se trata de un peligroso mago que fue cómplice de Lord Voldemort y que intentará vengarse de Harry Potter</descripcion>
+    <fecha_prestamo>Tue Jun 11 2024 00:51:37 GMT-0500 (hora estándar de Colombia)</fecha_prestamo>
+  </item>
+  <item>
+    <cliente_id>1001</cliente_id>
+    <nombre>Muzan</nombre>
+    <email>muzan12@gmail.com</email>
+    <telefono>3139983327</telefono>
+    <titulo>La larga marcha</titulo>
+    <descripcion>la más extraordinaria competición deportiva,  una agotadora marcha a pie donde un resbalón puede ser el último.</descripcion>
+    <fecha_prestamo>Tue Jun 11 2024 01:23:48 GMT-0500 (hora estándar de Colombia)</fecha_prestamo>
+  </item>
+  <item>
+    <cliente_id>1001</cliente_id>
+    <nombre>Muzan</nombre>
+    <email>muzan12@gmail.com</email>
+    <telefono>3139983327</telefono>
+    <titulo>Cien años de soledad</titulo>
+    <descripcion>Entre la boda de José Arcadio Buendía con Amelia Iguarán hasta la maldición de Aureliano Babilonia transcurre todo un siglo. Cien años de soledad para una estirpe única, fantástica, capaz de fundar una ciudad tan especial como Macondo y de engendrar niños con cola de cerdo</descripcion>
+    <fecha_prestamo>Tue Jun 11 2024 01:43:08 GMT-0500 (hora estándar de Colombia)</fecha_prestamo>
+  </item>
+  <item>
+    <cliente_id>1001</cliente_id>
+    <nombre>Muzan</nombre>
+    <email>muzan12@gmail.com</email>
+    <telefono>3139983327</telefono>
+    <titulo>Cien años de soledad</titulo>
+    <descripcion>Entre la boda de José Arcadio Buendía con Amelia Iguarán hasta la maldición de Aureliano Babilonia transcurre todo un siglo. Cien años de soledad para una estirpe única, fantástica, capaz de fundar una ciudad tan especial como Macondo y de engendrar niños con cola de cerdo</descripcion>
+    <fecha_prestamo>Tue Jun 11 2024 01:43:09 GMT-0500 (hora estándar de Colombia)</fecha_prestamo>
+  </item>
+</data>
